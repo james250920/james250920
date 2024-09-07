@@ -1,6 +1,6 @@
 <h2 align="left">Hola 👋, Soy James Frank Mendoza Rios</h2>
 <h3 align =center>Un apasionado por el mundo del desarrollo de software</h3>
-
+<a href="https://app.daily.dev/menfroyt"><img src="https://api.daily.dev/devcards/v2/9WaxdHcIMmF3Sc71XOGtl.png?type=default&r=3mb" width="356" alt="James mendoza's Dev Card"/></a>
 <h2 align="left">Sobre mí</h2>
 
 ###
