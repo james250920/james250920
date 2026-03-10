@@ -7,7 +7,7 @@
   <h3>Software Developer | .NET | Angular | Cloud ☁️</h3>
 
   <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://cdn.menfroyt-dev.com/imagenes/img/matrix.jpeg)"  />
+  <img height="200" src="https://cdn.menfroyt-dev.com/imagenes/img/matrix.jpeg"  />
 </div>
   
   <p>
