@@ -11,8 +11,7 @@
 </div>
   
   <p>
-    Desarrollador de software enfocado en la creación de APIs REST, arquitectura limpia y soluciones escalables. 
-    Apasionado por el desarrollo Backend y Frontend, y el despliegue en entornos Cloud.
+    Desarrollador de software enfocado en la creación de APIs REST, arquitectura limpia y soluciones escalables. Construyendo soluciones integrales de desarrollo Backend y Frontend, con despliegue en entornos Cloud.
   </p>
 
   <p>
