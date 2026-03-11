@@ -150,17 +150,11 @@
   </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james250920/james250920/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james250920/james250920/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/james250920/james250920/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<div align="center"> 
 <a href="https://app.daily.dev/menfroyt">
 <img src="https://api.daily.dev/devcards/v2/9WaxdHcIMmF3Sc71XOGtl.png?type=default&r=3mb" width="356" alt="James Mendoza Dev Card"/>
 </a>
-
-<div>
+</div>
+<div >
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
