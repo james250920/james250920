@@ -13,7 +13,18 @@
   <p>
     Desarrollador de software enfocado en la creación de APIs REST, arquitectura limpia y soluciones escalables. Construyendo soluciones integrales de desarrollo Backend y Frontend, con despliegue en entornos Cloud.
   </p>
-
+  <div align="center">
+  
+```
+    __   __ ______ _   _ ______ _____   ____ __     __ _______ 
+    |  \/  |  ____| \ | |  ____|  __ \ / __ \\ \   / /|__   __|
+    | \  / | |__  |  \| | |__  | |__) | |  | |\ \_/ /    | |   
+    | |\/| |  __| | . ` |  __| |  _  /| |  | | \   /     | |   
+ | |  | | |____| |\  | |    | | \ \| |__| |  | |      | |
+ |_|  |_|______|_| \_|_|    |_|  \_\\____/   |_|      |_|
+                                                                
+```
+</div>
   <p>
     <a href="https://portafolio.menfroyt-dev.com" target="_blank">
       <img src="https://img.shields.io/badge/Portafolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
