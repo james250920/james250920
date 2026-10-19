@@ -1,8 +1,13 @@
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:050b08,60:0b3d1a,100:62ff60" />
+
 <div align="center">
-  <img src="./banner-animado.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
+  <img src="./assets/banner-animado.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
 
   <h1>James Frank Mendoza Ríos</h1>
-  <h3>Software Developer · .NET · Angular · Cloud</h3>
+
+  <img src="./assets/neon-terminal.svg" width="100%" alt="MENFROYT — Software Developer · .NET · Angular · Cloud" />
+
+  <br /><br />
 
   <img height="200" src="https://github.com/james250920/james250920/blob/main/Generated%20Image%20March%2010%2C%202026%20-%205_19PM.png?raw=true" alt="James Frank Mendoza Ríos" />
 
@@ -13,45 +18,32 @@
 
   <p>
     <a href="https://portafolio.menfroyt-dev.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
+      <img src="https://img.shields.io/badge/Portafolio-0E1714?style=for-the-badge&logo=googlechrome&logoColor=62FF60" alt="Portafolio" />
     </a>
     <a href="https://linkedin.com/in/menfroyt-dev" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0E1714?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzYyRkY2MCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn" />
     </a>
     <a href="mailto:jamesfrankmendozarios@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-0E1714?style=for-the-badge&logo=gmail&logoColor=62FF60" alt="Email" />
     </a>
   </p>
 </div>
 
-```text
- __  __   ______   _   _   ______   _____     ____   __     __  _______
-|  \/  | |  ____| | \ | | |  ____| |  __ \   / __ \  \ \   / / |__   __|
-| \  / | | |__    |  \| | | |__    | |__) | | |  | |  \ \_/ /     | |
-| |\/| | |  __|   | . ` | |  __|   |  _  /  | |  | |   \   /      | |
-| |  | | | |____  | |\  | | |      | | \ \  | |__| |    | |       | |
-|_|  |_| |______| |_| \_| |_|      |_|  \_\  \____/     |_|       |_|
-```
-
----
-
-## Sobre mí
+<img src="./assets/section-sobre-mi.svg" width="100%" alt="Sobre mí" />
 
 - Estudiante de **Ingeniería de Tecnologías de Información y Sistemas** en la Universidad ESAN.
 - Experiencia con **.NET Core, Node.js, FastAPI y Angular**.
 - Despliegue de aplicaciones con **Docker, AWS y Microsoft Azure**.
 - Interesado en arquitectura de software, buenas prácticas y sistemas escalables.
 
-## Logros
+<img src="./assets/section-logros.svg" width="100%" alt="Logros" />
 
 | Año  | Reconocimiento                                   |
 | ---- | ------------------------------------------------ |
 | 2025 | **2.º puesto** — Hackathon PRODUCE CIRCULAR      |
 | —    | **2.º puesto** — Proyectos Móviles NTTDATA       |
 
----
-
-## Tecnologías y herramientas
+<img src="./assets/section-stack.svg" width="100%" alt="Tecnologías y herramientas" />
 
 <table align="center">
   <tr>
@@ -69,10 +61,10 @@
     <td>
       <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express" />
       <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-      <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" title="Prisma" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma" />
     </td>
   </tr>
   <tr>
@@ -131,19 +123,17 @@
   </tr>
 </table>
 
----
-
-## Actividad en GitHub
+<img src="./assets/section-actividad.svg" width="100%" alt="Actividad en GitHub" />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=james250920&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=james250920&background=06100C&border=315C38&stroke=1C3B2B&ring=62FF60&fire=62FF60&currStreakNum=E8F4ED&sideNums=E8F4ED&currStreakLabel=62FF60&sideLabels=9FAEAA&dates=9FAEAA&border_radius=16" width="100%" alt="Racha de contribuciones" />
 
   <br /><br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="Animación de la serpiente sobre el gráfico de contribuciones" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/james250920/james250920/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/james250920/james250920/output/github-snake.svg">
+    <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/james250920/james250920/output/github-snake.svg">
   </picture>
 
   <br /><br />
@@ -153,4 +143,4 @@
   </a>
 </div>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:62ff60,40:0b3d1a,100:050b08" />
