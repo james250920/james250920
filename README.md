@@ -1,8 +1,6 @@
 <div align="center">
   <img src="assets/banner-james.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
 
-  <h1>James Frank Mendoza Ríos</h1>
-
   <img src="./assets/neon-terminal.svg" width="100%" alt="MENFROYT — Software Developer · .NET · Angular · Cloud" />
 
   <br /><br />
