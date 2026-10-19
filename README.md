@@ -41,86 +41,80 @@
 | Año  | Reconocimiento                                   |
 | ---- | ------------------------------------------------ |
 | 2025 | **2.º puesto** — Hackathon PRODUCE CIRCULAR      |
-| —    | **2.º puesto** — Proyectos Móviles NTTDATA       |
+| 2025 | **2.º puesto** — Proyectos Móviles NTTDATA       |
 
 <img src="./assets/section-stack.svg" width="100%" alt="Tecnologías y herramientas" />
 
 <table align="center">
-  <tr>
-    <td align="right"><b>Lenguajes</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend y APIs</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express" />
-      <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-      <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" title="Prisma" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-      <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="Sass" title="Sass" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Móvil</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Bases de datos</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL" />
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" title="MongoDB" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Cloud y DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" />
-      <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare" title="Cloudflare" />
-      <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" title="Ubuntu" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Herramientas</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
-      <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" title="Postman" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" title="Selenium" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center"><b>Lenguajes</b></th>
+      <th align="center"><b>Backend y APIs</b></th>
+      <th align="center"><b>Frontend</b></th>
+      <th align="center"><b>Móvil</b></th>
+      <th align="center"><b>Bases de datos</b></th>
+      <th align="center"><b>Cloud y DevOps</b></th>
+      <th align="center"><b>Herramientas</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" title="C#" />
+        <img src="https://skillicons.dev/icons?i=py" height="35" alt="Python" title="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" title="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" title="Kotlin" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" alt=".NET" title=".NET" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" title="Node.js" />
+        <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express" title="Express" />
+        <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="NestJS" title="NestJS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" title="FastAPI" />
+        <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="Prisma" title="Prisma" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" title="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" title="CSS3" />
+        <img src="https://cdn.simpleicons.org/sass/CC6699" height="35" alt="Sass" title="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="Angular" title="Angular" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" title="React" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="Tailwind CSS" title="Tailwind CSS" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="Android" title="Android" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="35" alt="Jetpack Compose" title="Jetpack Compose" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server" title="SQL Server" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" title="PostgreSQL" />
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="MySQL" title="MySQL" />
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="MongoDB" title="MongoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite" title="SQLite" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" title="Firebase" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS" title="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" title="Azure" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" title="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="Nginx" title="Nginx" />
+        <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="35" alt="Cloudflare" title="Cloudflare" />
+        <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="35" alt="Ubuntu" title="Ubuntu" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="Git" title="Git" />
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="Postman" title="Postman" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="Selenium" title="Selenium" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" title="VS Code" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio" title="Visual Studio" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="Android Studio" title="Android Studio" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" title="Figma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="Webpack" title="Webpack" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino" title="Arduino" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="./assets/section-actividad.svg" width="100%" alt="Actividad en GitHub" />
