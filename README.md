@@ -1,5 +1,3 @@
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-
 <div align="center">
   <img src="./banner-animado.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
 
