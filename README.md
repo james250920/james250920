@@ -1,9 +1,8 @@
 <div align="center">
   <img src="assets/banner-james.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
 
-  <img src="./assets/neon-terminal.svg" width="100%" alt="MENFROYT — Software Developer · .NET · Angular · Cloud" />
 
-  <br /><br />
+  <br />
 
   <img height="280" src="https://github.com/james250920/james250920/blob/main/pi_2.png?raw=true" alt="James Frank Mendoza Ríos" />
 
@@ -11,7 +10,6 @@
     Desarrollador de software enfocado en APIs REST, arquitectura limpia y soluciones escalables.<br />
     Construyo soluciones completas de Backend y Frontend, desplegadas en entornos Cloud.
   </p>
-
   <p>
     <a href="https://portafolio.menfroyt-dev.com" target="_blank">
       <img src="https://img.shields.io/badge/Portafolio-0E1714?style=for-the-badge&logo=googlechrome&logoColor=62FF60" alt="Portafolio" />
@@ -23,8 +21,12 @@
       <img src="https://img.shields.io/badge/Email-0E1714?style=for-the-badge&logo=gmail&logoColor=62FF60" alt="Email" />
     </a>
   </p>
+  <br />
+  
+<img src="./assets/neon-terminal.svg" width="100%" alt="MENFROYT — Software Developer · .NET · Angular · Cloud" />
+  
 </div>
-
+<br />
 <img src="./assets/section-sobre-mi.svg" width="100%" alt="Sobre mí" />
 
 - Estudiante de **Ingeniería de Tecnologías de Información y Sistemas** en la Universidad ESAN.
