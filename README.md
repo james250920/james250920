@@ -9,7 +9,7 @@
 
   <br /><br />
 
-  <img height="200" src="https://github.com/james250920/james250920/blob/main/Generated%20Image%20March%2010%2C%202026%20-%205_19PM.png?raw=true" alt="James Frank Mendoza Ríos" />
+  <img height="280" src="https://github.com/james250920/james250920/blob/main/pi_2.png?raw=true" alt="James Frank Mendoza Ríos" />
 
   <p>
     Desarrollador de software enfocado en APIs REST, arquitectura limpia y soluciones escalables.<br />
