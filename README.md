@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-animado.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
+  <img src="assets/banner-james.webp" width="100%" alt="Tux hacker con energía verde líquida animada" />
 
   <h1>James Frank Mendoza Ríos</h1>
 
